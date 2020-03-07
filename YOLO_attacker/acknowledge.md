@@ -1,6 +1,8 @@
 
 ### YOLO v3
 
+Study Materials for Chinese learners
+
 structure:
 > https://blog.csdn.net/leviopku/article/details/82660381
 
