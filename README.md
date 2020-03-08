@@ -4,15 +4,16 @@
 六代兴亡如梦，苒苒惊时月。纵使岁寒途远，此志应难夺。 <br/>
 
 
-These are adversarial examples attack for typical deep learning techniques: classifisers, UEA, YOLO
+These are adversarial examples attack for typical deep learning techniques: classifisers, Faster RCNN, YOLO
 
 Aiming at some selected typical image classification and object detection networks, we designed specific adversarial examples attacking method to generate adversarial samples. On the basis of not affecting the visual effect, after processing the test samples, we can achieve the purpose of deceiving the recognition network model and outputting the complete error recognition results.
 
 ### Dependencies
 - Tensorflow, keras
+- pytorch
 - Numpy
 - Matplotlib
-- jupyter notebook
+- jupyter notebook, colab
 
 
 ### Reference
