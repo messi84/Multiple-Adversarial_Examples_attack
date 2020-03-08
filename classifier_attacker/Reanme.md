@@ -1,9 +1,9 @@
 ## Introduction
 ### FGSM 
-Both FGSM and FGSM2 are the implements of FGSM algorithms, while FGSM attack resnet18/resnet50 in imagenet and a model trained on MNIST, FGSM2 attack inception_v3.
+Both FGSM and FGSM2 are the implements of [FGSM algorithms](<https://arxiv.org/abs/1412.6572>), while FGSM attack resnet18/resnet50 in imagenet and a model trained on MNIST, FGSM2 attack inception_v3.
 
 ### iterative
-This is a implement of useing FGSM in a iterative way, whcih is also simlply called BIM 
+This is a implement of useing FGSM in a iterative way, whcih is also simlply called [BIM](<https://arxiv.org/abs/1607.02533>) 
 
 ### one pixel attack
 This is a implement of [One pixel attack for fooling deep neural networks](<https://arxiv.org/abs/1710.08864>)
