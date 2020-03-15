@@ -4,6 +4,10 @@
 - This code is the implementation of the paper [Transferable Adversarial Attacks for Image and Video Object Detection](https://arxiv.org/abs/1811.12641)
 - This paper has been received by IJCAI-19.
 
+## 2. Pretrain
+https://drive.google.com/open?id=1PpffJyBNuF8jw6tetea3HVGij6CbrjbH
+
+You can dowmload them as your pretrained model of fasterRCNN, thanks to the author Yun Chen for sharing.
 
 ## 2. Demo
 Just run this ipynb in colab.
