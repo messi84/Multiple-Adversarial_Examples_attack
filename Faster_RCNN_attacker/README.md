@@ -16,7 +16,9 @@ Just run this ipynb in colab.
  ```
  feature_and_attack_train.ipynb
  ```
-
+## 4. Results
+Training this network cost a lot of time, evary iteration cost around 7s(running in colab), while once training is comleted, the speed of generating adversarial examples is quite fast.
+Due to the slow upload speed, we only show 7 examples in 'sdd' folder.
 
 ## Acknowledgement
 
